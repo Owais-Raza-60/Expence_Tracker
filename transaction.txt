@@ -1,0 +1,6 @@
+ID: 13
+Type: Expence
+Category: food
+Amount: 100
+Date: 17/04/2026
+-------------------------
